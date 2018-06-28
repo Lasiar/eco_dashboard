@@ -2,34 +2,21 @@
     <v-container grid-list-md text-xs-center>
         <v-layout row wrap>
             <v-flex xs6>
-                <v-card dark color="secondary">
-                    <v-card-title primary-title>
-                        Все
-                    </v-card-title>
-                    <v-card-actions>
-                            <Datapicker atr="Начало"/>
-                    </v-card-actions>
-                </v-card>
+                <CardDate name="Все"></CardDate>
             </v-flex>
             <v-flex xs6>
-                <v-card dark color="secondary">
-                    <v-card-title primary-title>
-                        Свинец
-                    </v-card-title>
-                    <v-card-actions>
-                        <Datapicker atr="Начало"/>
-                    </v-card-actions>
-                </v-card>
+                <card-date name="Свинец"></card-date>
             </v-flex>
         </v-layout>
     </v-container>
 </template>
 
 <script>
-    import Datapicker from '../components/Datapicker'
+    import DataPicker from '../components/Datapicker'
+    import CardDate from '../components/CardDate'
 
     export default {
-      components: {Datapicker},
+      components: {CardDate, DataPicker},
       data () {
         return {
           menu2: false
