@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffa08230-2fce-4dd1-9c53-f2d3ffac9712" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ecoSys.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style/app.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/NuxtLogo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/VuetifyLogo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/inspire.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/vuetify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CardDate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/CardDate.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Datapicker.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Datapicker.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-    </list>
+    <list default="true" id="edf33ba0-d50e-4445-a92d-12d2f394801d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,113 +13,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middleware/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vuetify.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/vuetify.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="index.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="696">
+              <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
               <folding>
-                <element signature="e#598#647#0" expanded="true" />
+                <element signature="e#376#425#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CardDate.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/CardDate.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-690">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inspire.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/inspire.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="VuetifyLogo.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/VuetifyLogo.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/default.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Datapicker.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/Datapicker.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NuxtLogo.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/NuxtLogo.vue">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Vue Single File Component" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>конец</find>
-      <find>nuxt</find>
-      <find>swi</find>
-      <find>start</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/layouts/default.vue" />
-        <option value="$PROJECT_DIR$/components/CardDate.vue" />
         <option value="$PROJECT_DIR$/pages/index.vue" />
-        <option value="$PROJECT_DIR$/components/Datapicker.vue" />
       </list>
     </option>
   </component>
@@ -176,7 +57,6 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -187,23 +67,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="ecoSys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecoSys" type="462c0819:PsiDirectoryNode" />
+              <item name="test_front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_front" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ecoSys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecoSys" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecoSys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecoSys" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecoSys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecoSys" type="462c0819:PsiDirectoryNode" />
+              <item name="test_front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_front" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_front" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,11 +91,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="C:\Users\Чалый\Documents\webProject\ecoSys\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Чалый\Documents\webProject\ecoSys\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -239,41 +113,40 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ffa08230-2fce-4dd1-9c53-f2d3ffac9712" name="Default" comment="" />
-      <created>1530074103026</created>
+      <changelist id="edf33ba0-d50e-4445-a92d-12d2f394801d" name="Default" comment="" />
+      <created>1530208497596</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1530074103026</updated>
-      <workItem from="1530074106670" duration="97000" />
-      <workItem from="1530074223115" duration="24450000" />
+      <updated>1530208497596</updated>
+      <workItem from="1530208498848" duration="825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24547000" />
+    <option name="totallyTimeSpent" value="825000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="-8" width="1920" height="1088" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13229166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50104165" side_tool="true" weight="0.32943678" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="npm" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49895832" weight="0.32943678" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,89 +156,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/middleware/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/vuetify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="696">
+          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
           <folding>
-            <element signature="e#598#647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/vuetify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/middleware/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/inspire.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/VuetifyLogo.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/default.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/NuxtLogo.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Datapicker.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/CardDate.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-690">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#598#647#0" expanded="true" />
+            <element signature="e#376#425#0" expanded="true" />
           </folding>
         </state>
       </provider>

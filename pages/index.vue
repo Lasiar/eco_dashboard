@@ -12,16 +12,20 @@
 </template>
 
 <script>
-    import DataPicker from '../components/Datapicker'
-    import CardDate from '../components/CardDate'
+ //   import axios from 'axios'
+ import DataPicker from '../components/Datapicker'
+ import CardDate from '../components/CardDate'
 
-    export default {
-      components: {CardDate, DataPicker},
-      data () {
-        return {
-          menu2: false
-        }
-      }
-    }
+ export default {
+   components: {CardDate, DataPicker},
+   data () {
+     return {
+       menu2: false
+     }
+   },
+   created: function () {
+     alert()
+   }
+
+ }
 </script>
-g

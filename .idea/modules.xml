@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ecoSys.iml" filepath="$PROJECT_DIR$/.idea/ecoSys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test_front.iml" filepath="$PROJECT_DIR$/.idea/test_front.iml" />
     </modules>
   </component>
 </project>

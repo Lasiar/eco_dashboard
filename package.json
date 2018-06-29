@@ -1,8 +1,8 @@
 {
-  "name": "eco-sys",
+  "name": "test",
   "version": "1.0.0",
   "description": "Nuxt.js + Vuetify.js project",
-  "author": "Roman Chaliy",
+  "author": "Чалый Роман Александрович <cerebrum.ch@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "nuxt": "^1.0.0",
     "vuetify": "^1.0.0"
   },
