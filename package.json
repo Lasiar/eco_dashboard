@@ -11,8 +11,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@xkeshi/image-compressor": "^0.5.3",
     "axios": "^0.18.0",
+    "cropperjs": "^1.4.1",
     "nuxt": "^1.0.0",
+    "vue-upload-component": "^2.8.9",
     "vuetify": "^1.0.0"
   },
   "devDependencies": {

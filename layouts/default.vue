@@ -87,13 +87,13 @@
         drawer: true,
         fixed: false,
         items: [
-          { icon: 'apps', title: 'Welcome', to: '/' },
-          { icon: 'bubble_chart', title: 'Inspire', to: '/inspire' }
+          { icon: 'apps', title: 'Изменение времени в оп.', to: '/' },
+          { icon: 'bubble_chart', title: 'Inspire', to: '/update-eco-passport' }
         ],
         miniVariant: false,
         right: true,
         rightDrawer: false,
-        title: 'Vuetify.js'
+        title: 'Средство управление данными для экологов сайтом krasecology'
       }
     }
   }

@@ -20,7 +20,7 @@
                     readonly
             ></v-text-field>
             <v-date-picker
-                    :events="['2018-06-30', '2018-06-28']"
+                    :events="events"
                     locale="ru-Latn"
                     v-model="date"
                     @input="$refs.start.save(date)
@@ -35,12 +35,19 @@
     export default {
 
       name: 'Datapicker',
-      props: ['atr'],
+      props: {atr: String,
+        saveDate: String},
       data: function () {
         return {
           finish: false,
           start: false,
           date: ''
+        }
+      },
+      computed: {
+        events: function () {
+          var arr = [this.saveDate]
+          return arr
         }
       }
     }
